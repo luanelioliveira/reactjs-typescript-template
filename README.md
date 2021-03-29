@@ -3,13 +3,22 @@
 </p>
 
 <h2 align="center">
-  ReactJS + Typescript Templete
+  ReactJS + Typescript Template
 </h2>
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/PRs-welcome-%238257E6.svg" alt="PRs welcome!" />
 
+  <a href="https://www.linkedin.com/in/luanoliveira/" target="_blank">
+    <img alt="Made by Luan Eli Oliveira" src="https://img.shields.io/badge/made%20by-Luan%20Eli%20Oliveira-%238257E6">
+  </a>
+
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%238257E6">
+
+</p>
+
+<p align="center">
 </p>
 
 <p align="center">
