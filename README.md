@@ -12,13 +12,29 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%238257E6">
 </p>
 
-## 🚀 Features
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-- 📝 Create react app
-- 🛣 Typescript
-- 📱 ESLint
-- 🖥 Prettir
-- 🥇 Styled Components
+<br>
+
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- [ReactJS](https://pt-br.reactjs.org/)
+
+## 💻 Features
+
+- Create react app
+- Typescript
+- ESLint
+- Prettier
+- Styled Components
 
 ## ⚡️ Getting started
 
@@ -46,4 +62,20 @@
 
 ---
 
+## 🤔 How to contribute
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+- Make a fork;
+- Create a branck with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) for details.
+
+---
 Made with 💜 by Luan Eli Oliveira :wave: 👋  [Get in touch!](https://www.linkedin.com/in/luanoliveira/)
