@@ -87,4 +87,4 @@ After merging your receipt request to done, you can delete a branch from yours.
 This project is under the MIT license. See the [LICENSE](LICENSE) for details.
 
 ---
-Made with 💜 by Luan Eli Oliveira :wave: 👋  [Get in touch!](https://www.linkedin.com/in/luanoliveira/)
+Made with 💜 by Luan Eli Oliveira 👋  [Get in touch!](https://www.linkedin.com/in/luanoliveira/)
