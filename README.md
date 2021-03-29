@@ -82,7 +82,7 @@ Please make sure to update tests as appropriate.
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :memo: License
+## 📝 License
 
 This project is under the MIT license. See the [LICENSE](LICENSE) for details.
 
